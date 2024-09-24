@@ -1,1 +1,1 @@
-You can check the live demo of my portfolio website by going to actions tab > Create static.yml > then click the URL
+You can check the live demo of my portfolio website by copy pasting this: https://zanti00.github.io/Portfolio/
